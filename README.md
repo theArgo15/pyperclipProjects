@@ -1,6 +1,6 @@
 # pyperclipProjects
 
-This repo contains various small scripts that implement the pyperclip module
+This repo contains various small scripts that implement the pyperclip module.
 The pyperclip module can import the contents of your clipboard as a Python string
 
 To use these scripts you will need to pip install pyperclip
